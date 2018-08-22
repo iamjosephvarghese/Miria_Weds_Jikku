@@ -118,8 +118,8 @@
                 year: 2018,
                 month: 8,
                 day: 27,
-                hours: 5,
-                minutes: 30,
+                hours: 11,
+                minutes: 0,
                 seconds: 0,
                 words: {
                     days: 'day',
